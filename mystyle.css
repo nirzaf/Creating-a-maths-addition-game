@@ -1,0 +1,30 @@
+body {
+	
+	
+	background-color:#4d91e2 ;
+	
+}
+
+
+#wrapper {
+	
+	width: 750px;
+	height:350px;
+	background-color:yellow;
+	margin-top:120px;
+	margin-left:220px;
+	
+	
+}
+
+#btn {
+	
+	background-color:red;
+	color:#fff;
+	padding:12px;
+	border-style:none;
+	font-weight:bold;
+	width:100px;
+	
+	
+}
